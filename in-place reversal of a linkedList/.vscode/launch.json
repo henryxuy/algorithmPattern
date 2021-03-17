@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RotateList",
+            "request": "launch",
+            "mainClass": "RotateList",
+            "projectName": "in-place reversal of a linkedList_f87cfa5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseEveryKElementsElse",
+            "request": "launch",
+            "mainClass": "ReverseEveryKElementsElse",
+            "projectName": "in-place reversal of a linkedList_f87cfa5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseEveryKElements",
+            "request": "launch",
+            "mainClass": "ReverseEveryKElements",
+            "projectName": "in-place reversal of a linkedList_f87cfa5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseSubList",
+            "request": "launch",
+            "mainClass": "ReverseSubList",
+            "projectName": "in-place reversal of a linkedList_f87cfa5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "ReverseLinkedList",
+            "projectName": "in-place reversal of a linkedList_f87cfa5b"
+        }
+    ]
+}
